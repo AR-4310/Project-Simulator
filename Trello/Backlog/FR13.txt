@@ -1,0 +1,1 @@
+FR13: Logout for Admin
