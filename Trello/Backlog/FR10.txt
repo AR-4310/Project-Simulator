@@ -1,1 +1,1 @@
-FR10: View orders for Admin
+FR10 : View orders for Admin
